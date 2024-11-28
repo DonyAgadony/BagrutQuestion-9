@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\bin\Debug\net8.0\BagrutQuestion#9.exe
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\bin\Debug\net8.0\BagrutQuestion#9.deps.json
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\bin\Debug\net8.0\BagrutQuestion#9.runtimeconfig.json
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\bin\Debug\net8.0\BagrutQuestion#9.dll
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\bin\Debug\net8.0\BagrutQuestion#9.pdb
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.dll
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\refint\BagrutQuestion#9.dll
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.pdb
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\BagrutQuestion#9.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHamelech\BagrutQuestion#9\obj\Debug\net8.0\ref\BagrutQuestion#9.dll
